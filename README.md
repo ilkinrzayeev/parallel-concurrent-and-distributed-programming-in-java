@@ -1,2 +1,1 @@
-# Parallel-Concurrent-and-Distributed-Programming-in-Java
-This repo contains my implementation of several course projects which were requirements for "Parallel, Concurrent and Distributed Programming in Java", an online course offered by Rice University on Coursera.
+A showcase of my solutions to core projects from Rice University’s “Parallel, Concurrent, and Distributed Programming in Java” course on Coursera. This repository brings together hands-on implementations that explore the principles and real-world techniques of modern Java concurrency, parallelism, and distributed systems—demonstrating both technical depth and practical application.
